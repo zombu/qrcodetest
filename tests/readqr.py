@@ -1,7 +1,6 @@
 import cv2
 import qrcode
 from PIL import Image
-import numpy as np
 
 detector = cv2.QRCodeDetector()
 
